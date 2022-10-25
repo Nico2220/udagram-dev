@@ -50,3 +50,6 @@ Add your own domain name and have it point to the running services (try adding a
  
 >! url to test
  http://udagram-dev.eba-sxfpurpm.eu-west-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+ git url 
+ https://github.com/Nico2220/udagram-dev.git
